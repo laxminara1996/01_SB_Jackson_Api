@@ -1,0 +1,11 @@
+{
+	"id": 100,
+	"name": "laxmi",
+	"email": "laxmi@gmail.com",
+	"pwd": "12344",
+	"address": {
+		"city": "atp",
+		"state": "ap",
+		"country": "india"
+	}
+}
